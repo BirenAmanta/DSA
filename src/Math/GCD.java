@@ -46,7 +46,7 @@ public class GCD {
 		 *  ->rem=18%12(return reminder of 18/12)
 		 * step2:
 		 *  then in next divide 
-		 *  	take 18 and 6
+		 *  	take 12 and 6
 		 *  	repeat same step 1 untill reminder becomes 0
 		 * 
 		 ***********************************/

@@ -47,7 +47,7 @@ public class LCM {
 		 * 		while getting GCD we took minimum of 2s and 3s
 		 * 			which will be =2^1 * 3^1
 		 * 						  =	6
-		 * 		so if we divide (12*18)/6=35
+		 * 		so if we divide (12*18)/6=36
 		 * 			which concludes that LCM = product of two nos
 		 * 									  ---------------------	
 		 * 									   GCD of those tow nos	 

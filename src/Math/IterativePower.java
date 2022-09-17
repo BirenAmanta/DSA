@@ -23,7 +23,7 @@ public class IterativePower {
 				res=res*number;
 			}
 			number=number*number;
-			power=power/2;
+			power=power>>1;
 		}
 		return res;
 	}
